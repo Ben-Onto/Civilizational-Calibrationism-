@@ -99,5 +99,5 @@ AI 的职责是**信息对等化**：
 **Genesis Hash (Draft-Reference):**
 `SHA256: 4e6b7c91d8f2a5e3b0c9a8d7f6e5d4c3b2a10f9e8d7c6b5a4f3e2d1c0b9a8f7e`
 *(注：此哈希为逻辑锚定点，正式哈希请在 Commit 后根据 GitHub 提供的 SHA 更新)*
-
+**最新存证哈希 (Latest Commit):** ![GitHub last commit](https://img.shields.io/github/last-commit/你的用户名/你的仓库名?label=Hash&style=flat-square)
 **Timestamp:** 2026-02-24 20:45 (UTC+8)
