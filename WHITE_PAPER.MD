@@ -88,7 +88,7 @@ AI 的职责是**信息对等化**：
 * **理论著作权**：Ben Onto (本·本体) © 2026.
 * **文档协议**：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 * **代码协议**：[MIT License](https://opensource.org/licenses/MIT)
-* **最新存证哈希 (Latest Commit):** ![GitHub last commit](https://img.shields.io/github/last-commit/Ben-Onto/Civilizational-Calibrationism-/Ben-Onto/Civilizational-Calibrationism-/WHITE_PAPER.MDlabel=Hash&style=flat-square)
+* **最新存证哈希 (Latest Commit):** ![GitHub last commit](https://img.shields.io/github/last-commit/Ben-Onto/Civilizational-Calibrationism-/WHITE_PAPER.MDlabel=Hash&style=flat-square)
 ---
 
 ## 🛡️ 逻辑存证与哈希指纹 (Integrity)
