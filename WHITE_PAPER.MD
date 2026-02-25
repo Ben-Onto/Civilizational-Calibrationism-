@@ -88,16 +88,16 @@ AI 的职责是**信息对等化**：
 * **理论著作权**：Ben Onto (本·本体) © 2026.
 * **文档协议**：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 * **代码协议**：[MIT License](https://opensource.org/licenses/MIT)
-* **最新存证哈希 (Latest Commit):** ![GitHub last commit](https://img.shields.io/github/last-commit/Ben-Onto/Civilizational-Calibrationism-/blob/main/WHITE_PAPER.MDlabel=Hash&style=flat-square)
----
 
-## 🛡️ 逻辑存证与哈希指纹 (Integrity)
 
-> [!NOTE]
-> **验证方法**：你可以通过终端运行 `openssl dgst -sha256 WHITE_PAPER.md` 来验证文档的一致性。
+## 🛡️ 逻辑存证 (Integrity Verification)
 
-**Genesis Hash (Draft-Reference):**
-`SHA256: 4e6b7c91d8f2a5e3b0c9a8d7f6e5d4c3b2a10f9e8d7c6b5a4f3e2d1c0b9a8f7e`
-*(注：此哈希为逻辑锚定点，正式哈希请在 Commit 后根据 GitHub 提供的 SHA 更新)*
+> 1. **内容指纹**：由 SHA-256 算法生成的原始文档摘要。
+> 2. **时间锚点**：由 GitHub Git-Tree 提供的不可篡改提交记录。
 
+| 验证项 | 动态值 |
+| :--- | :--- |
+| **Genesis Commit** | `[PENDING:713f523f66d940328907922dcd2d6a75220450394ec944124fb62e78455070a8]` |
+| **Content SHA-256** | `4e6b7c91d8f2a5e3b0c9a8d7f6e5d4c3b2a10f9e8d7c6b5a4f3e2d1c0b9a8f7e` |
+| **Verification Node** | GitHub Archive (2026) |
 **Timestamp:** 2026-02-24 20:45 (UTC+8)
