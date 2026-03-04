@@ -72,7 +72,6 @@
 
 ## 🖋️ 署名 (Authorship)
 
-```text
        ●
 ───────┼───────
        │
@@ -81,6 +80,9 @@
 Ben Onto (本·本体) Independent Researcher | Civilizational Calibrationist "Not for the rulers, but for the sensors."
 
 ## 🛡️ 逻辑存证 (Integrity Verification)
+
+```text
+
 为了确保本仓库内容的原创性与不可篡改性，特此存证：
 
 Genesis Hash (SHA-256): [53e1b3d02fb85a0093a950ccfc03bf34a8190b6daf5b05aedc575302567f381f]
